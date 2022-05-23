@@ -15,9 +15,6 @@ Example
     "id": 192,
     "dataBase": "ПК-2021",
     "name": "Диплом о высшем профессиональном образовании",
-    "series": null,
     "number": 34567,
-    "issuedBy": null,
-    "issueDate": null
-}
+   }
 ```
